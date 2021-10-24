@@ -31,11 +31,11 @@ public class Javscript_Alert {
 			Thread.sleep(4000);
 			driver.switchTo().alert().sendKeys("Hello everyone");
 			
-			//driver.switchTo().alert().accept();
-			driver.switchTo().alert().dismiss();
+			driver.switchTo().alert().accept();
+			//driver.switchTo().alert().dismiss();
 			Thread.sleep(4000);
 			
-			driver.quit();
+			//driver.quit();
 
 	}
 

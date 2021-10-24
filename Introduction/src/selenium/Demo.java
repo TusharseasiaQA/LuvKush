@@ -1,6 +1,7 @@
 package selenium;
 
 import org.openqa.selenium.By;
+
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
