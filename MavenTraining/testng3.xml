@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="test_suite">  
+<test name="test">  
+<classes>  
+<class name="com.javatpoint.Test1">  
+<methods>  
+<include name="Mobile.*"/>  
+<!--include name="WebLoginCarLoan"/  -->
+</methods>  
+</class>  
+</classes>  
+</test> <!-- Test -->  
+</suite> <!-- Suite -->
