@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-08T16:04:47 IST" name="BrowserStack Test automtion regression suite" finished-at="2021-12-08T16:06:52 IST" duration-ms="125020">
+    <groups>
+    </groups>
+    <test started-at="2021-12-08T16:04:47 IST" name="BrowserStack Test - Chrome" finished-at="2021-12-08T16:06:38 IST" duration-ms="110564">
+      <class name="com.mytests.SauceTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@74ea2410]" started-at="2021-12-08T16:04:47 IST" name="setup" finished-at="2021-12-08T16:05:02 IST" duration-ms="15038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[96]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Catalina]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkInventoryItemTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkInventoryItemTest()[pri:1, instance:com.mytests.SauceTest@74ea2410]" started-at="2021-12-08T16:05:02 IST" name="checkInventoryItemTest" finished-at="2021-12-08T16:05:08 IST" duration-ms="5448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItemTest -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@74ea2410]" started-at="2021-12-08T16:05:08 IST" name="setup" finished-at="2021-12-08T16:06:34 IST" duration-ms="86114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[96]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Catalina]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkAddToCartButtonTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkAddToCartButtonTest()[pri:2, instance:com.mytests.SauceTest@74ea2410]" started-at="2021-12-08T16:06:34 IST" name="checkAddToCartButtonTest" finished-at="2021-12-08T16:06:38 IST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButtonTest -->
+      </class> <!-- com.mytests.SauceTest -->
+    </test> <!-- BrowserStack Test - Chrome -->
+    <test started-at="2021-12-08T16:04:47 IST" name="BrowserStack Test - FF" finished-at="2021-12-08T16:06:52 IST" duration-ms="125020">
+      <class name="com.mytests.SauceTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@27462a88]" started-at="2021-12-08T16:04:47 IST" name="setup" finished-at="2021-12-08T16:05:08 IST" duration-ms="21275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[94]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkInventoryItemTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkInventoryItemTest()[pri:1, instance:com.mytests.SauceTest@27462a88]" started-at="2021-12-08T16:05:08 IST" name="checkInventoryItemTest" finished-at="2021-12-08T16:05:13 IST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItemTest -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@27462a88]" started-at="2021-12-08T16:05:13 IST" name="setup" finished-at="2021-12-08T16:06:47 IST" duration-ms="93684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[94]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkAddToCartButtonTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkAddToCartButtonTest()[pri:2, instance:com.mytests.SauceTest@27462a88]" started-at="2021-12-08T16:06:47 IST" name="checkAddToCartButtonTest" finished-at="2021-12-08T16:06:52 IST" duration-ms="5258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButtonTest -->
+      </class> <!-- com.mytests.SauceTest -->
+    </test> <!-- BrowserStack Test - FF -->
+  </suite> <!-- BrowserStack Test automtion regression suite -->
+</testng-results>
